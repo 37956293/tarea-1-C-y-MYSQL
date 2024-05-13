@@ -1,0 +1,5 @@
+﻿  caso 1 tarea.cpp
+C:\Users\Usuario\Desktop\UNIVERSIDAD MARIANO GALVEZ DE GUATEMALA\prueba\caso 1 tarea\caso 1 tarea\caso 1 tarea.cpp(5,7): error C2143: error de sintaxis: falta ';' delante de 'namespace'
+C:\Users\Usuario\Desktop\UNIVERSIDAD MARIANO GALVEZ DE GUATEMALA\prueba\caso 1 tarea\caso 1 tarea\caso 1 tarea.cpp(5,7): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\UNIVERSIDAD MARIANO GALVEZ DE GUATEMALA\prueba\caso 1 tarea\caso 1 tarea\caso 1 tarea.cpp(5,20): error C2059: error de sintaxis: ';'
+C:\Users\Usuario\Desktop\UNIVERSIDAD MARIANO GALVEZ DE GUATEMALA\prueba\caso 1 tarea\caso 1 tarea\caso 1 tarea.cpp(8,5): error C2065: 'cout': identificador no declarado
